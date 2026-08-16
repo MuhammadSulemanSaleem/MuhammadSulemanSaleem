@@ -151,22 +151,22 @@ Full case studies (challenge → solution → impact, tech stack, and screenshot
 <td valign="top" width="50%">
 
 ![Claude](https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)
-- Claude 101
-- Claude Platform 101
-- Claude Code 101
-- Claude Code in Action
-- Introduction to Agent Skills
-- Introduction to Model Context Protocol
-- Introduction to Claude Cowork
+- [Claude 101](https://verify.skilljar.com/c/sxzjidow2r78)
+- [Claude Platform 101](https://verify.skilljar.com/c/c8tkshrkg2gd)
+- [Claude Code 101](https://verify.skilljar.com/c/xucvjtkdxu76)
+- [Claude Code in Action](https://verify.skilljar.com/c/9adj7vg2p4pq)
+- [Introduction to Agent Skills](https://verify.skilljar.com/c/hxku9s7935in)
+- [Introduction to Model Context Protocol](https://verify.skilljar.com/c/omkq9wipru94)
+- [Introduction to Claude Cowork](https://verify.skilljar.com/c/4jx8defhh99a)
 
 </td>
 <td valign="top" width="50%">
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-- n8n Quickstart
-- n8n101: Essentials
-- n8n102: Integrations
-- n8n103: In Practice
+- [n8n Quickstart](https://learn.n8n.io/certificates/3a339f7e45284d00952e3260eb5f9627)
+- [n8n101: Essentials](https://learn.n8n.io/certificates/42e17a9c5b134fb2aa520a0ed0cd9567)
+- [n8n102: Integrations](https://learn.n8n.io/certificates/294d20421083470284b0731fb2344dac)
+- [n8n103: In Practice](https://learn.n8n.io/certificates/374c0b15cacf40f18b8da1e6b94fce54)
 
 </td>
 </tr>
