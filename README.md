@@ -21,7 +21,7 @@ I design and ship production software across four areas: **AI products** (RAG pi
 - 🔭 Currently building AI-powered products and enterprise integrations for clients worldwide
 - 🌱 Recently deep in multi-LLM orchestration (Claude + GPT-4o), RAG pipelines, and MCP server architectures
 - 💬 Ask me about Flutter, Nest.js/Node.js, RAG systems, or n8n automation design
-- 📫 Reach me at **rana.suleman2297@gmail.com** or through my [contact page](https://sulemansaleem.com/contact)
+- 📫 Reach me at **<rana.suleman2297@gmail.com>** or through my [contact page](https://sulemansaleem.com/contact)
 - ⚡ Open to full-time roles as well as freelance/contract work
 
 ---
@@ -96,21 +96,21 @@ Full case studies (challenge → solution → impact, tech stack, and screenshot
 ### AI & LLM Products
 
 | Project | Highlight |
-|---|---|
+| --- | --- |
 | [**NebuFit**](https://sulemansaleem.com/work/nebufit/) | AI fitness coaching platform — computer-vision body analysis, RAG-processed bloodwork, multi-LLM voice coaching with automatic failover, full Stripe subscription management |
 | [**Creative OS**](https://sulemansaleem.com/work/creative-os/) | Local-first Electron writing assistant for screenplays — RAG pipeline (ChromaDB + SQLite) that never leaves the user's machine, extensible via an MCP server architecture |
 
 ### Enterprise & Desktop Platforms
 
 | Project | Highlight |
-|---|---|
+| --- | --- |
 | [**Orient Champions**](https://sulemansaleem.com/work/orient-champions/) | Field-sales platform processing thousands of daily batch scans, integrated with SAP ERP |
 | [**UNITY Desktop App & Admin Portal**](https://sulemansaleem.com/work/unity-desktop-admin-portal/) | Dual desktop + admin platform for a healthcare organisation, with role-based access and live activity visibility |
 
 ### Mobile Applications
 
 | Project | Highlight |
-|---|---|
+| --- | --- |
 | [**Houzi**](https://sulemansaleem.com/work/houzi/) | 53K+ reach, 4.84★ rating, 500+ sales |
 | [**Linked Golf**](https://sulemansaleem.com/work/linked-golf/) | Deployed to the App Store & Google Play |
 | [**Exodus App**](https://sulemansaleem.com/work/exodus-app/) | Full rebrand from Blue Sky (EPIC PC) |
@@ -118,7 +118,7 @@ Full case studies (challenge → solution → impact, tech stack, and screenshot
 ### Web & Desktop
 
 | Project | Highlight |
-|---|---|
+| --- | --- |
 | [**HouziBuilder**](https://sulemansaleem.com/work/houzibuilder/) | Drag-and-drop theme configurator |
 | [**Techtiz Corporate Website**](https://sulemansaleem.com/work/techtiz-corporate-website/) | Full Astro rebuild focused on performance & SEO |
 | [**ATTN Agency Homepage**](https://sulemansaleem.com/work/attn-agency-homepage/) | Go High Level native-element build |
@@ -126,7 +126,7 @@ Full case studies (challenge → solution → impact, tech stack, and screenshot
 ### Automation Systems
 
 | Project | Highlight |
-|---|---|
+| --- | --- |
 | [**Lead Response Automation — United Global Vanline**](https://sulemansaleem.com/work/lead-response-automation/) | Contact in under 1 minute, AI voice call in under 2 |
 | [**AGENTC — Agentic Job Discovery Automation**](https://sulemansaleem.com/work/agentc-job-discovery/) | Daily verified leads delivered before business hours |
 | [**Zendesk AI Support Automation**](https://sulemansaleem.com/work/zendesk-ai-support-automation/) | 3 linked workflows spanning tickets, calls, and replies |
@@ -138,7 +138,7 @@ Full case studies (challenge → solution → impact, tech stack, and screenshot
 ### Templates & Tools
 
 | Project | Highlight |
-|---|---|
+| --- | --- |
 | [**Kumquat — Talent Match**](https://sulemansaleem.com/work/kumquat-talent-match/) | Published on the FlutterFlow Marketplace |
 | [**Foodii — Recipe Book**](https://sulemansaleem.com/work/foodii-recipe-book/) | Published on the FlutterFlow Marketplace |
 
@@ -151,6 +151,7 @@ Full case studies (challenge → solution → impact, tech stack, and screenshot
 <td valign="top" width="50%">
 
 ![Claude](https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
 - [Claude 101](https://verify.skilljar.com/c/sxzjidow2r78)
 - [Claude Platform 101](https://verify.skilljar.com/c/c8tkshrkg2gd)
 - [Claude Code 101](https://verify.skilljar.com/c/xucvjtkdxu76)
@@ -158,11 +159,13 @@ Full case studies (challenge → solution → impact, tech stack, and screenshot
 - [Introduction to Agent Skills](https://verify.skilljar.com/c/hxku9s7935in)
 - [Introduction to Model Context Protocol](https://verify.skilljar.com/c/omkq9wipru94)
 - [Introduction to Claude Cowork](https://verify.skilljar.com/c/4jx8defhh99a)
+- [AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/9kccrim96jhw)
 
 </td>
 <td valign="top" width="50%">
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
 - [n8n Quickstart](https://learn.n8n.io/certificates/3a339f7e45284d00952e3260eb5f9627)
 - [n8n101: Essentials](https://learn.n8n.io/certificates/42e17a9c5b134fb2aa520a0ed0cd9567)
 - [n8n102: Integrations](https://learn.n8n.io/certificates/294d20421083470284b0731fb2344dac)
