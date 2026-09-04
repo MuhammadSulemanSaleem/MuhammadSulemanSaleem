@@ -175,7 +175,7 @@ Full case studies (challenge → solution → impact, tech stack, and screenshot
 </tr>
 </table>
 
-📜 **11 certificates** · view all with issue dates and PDFs: [sulemansaleem.com/about#certifications](https://sulemansaleem.com/about#certifications)
+📜 **12 certificates** · view all with issue dates and PDFs: [sulemansaleem.com/about#certifications](https://sulemansaleem.com/about#certifications)
 
 ---
 
