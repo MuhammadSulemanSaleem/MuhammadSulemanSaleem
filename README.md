@@ -148,7 +148,7 @@ Full case studies (challenge → solution → impact, tech stack, and screenshot
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 ![Claude](https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
@@ -162,7 +162,7 @@ Full case studies (challenge → solution → impact, tech stack, and screenshot
 - [AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/9kccrim96jhw)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
@@ -170,12 +170,22 @@ Full case studies (challenge → solution → impact, tech stack, and screenshot
 - [n8n101: Essentials](https://learn.n8n.io/certificates/42e17a9c5b134fb2aa520a0ed0cd9567)
 - [n8n102: Integrations](https://learn.n8n.io/certificates/294d20421083470284b0731fb2344dac)
 - [n8n103: In Practice](https://learn.n8n.io/certificates/374c0b15cacf40f18b8da1e6b94fce54)
+- [n8n Foundations Pathway](https://badges.n8n.io/f3ff6031-ec91-4c86-ac17-3a1d7a816b1d)
+
+</td>
+
+<td valign="top" width="33%">
+
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square)
+
+- [Career Essentials in Generative AI](https://www.linkedin.com/learning/certificates/f1d9de9129c1210f5f85ad2a95a3a78eea2454e3eb023f82444ddded6d21ca56)
+- [Microsoft Azure Essentials](https://www.linkedin.com/learning/certificates/cb77c24cb5dd59385a6caaafbfb3bcba838f8822b45cabd1780fed303e0936a6)
 
 </td>
 </tr>
 </table>
 
-📜 **12 certificates** · view all with issue dates and PDFs: [sulemansaleem.com/about#certifications](https://sulemansaleem.com/about#certifications)
+📜 **15 certificates** · view all with issue dates and PDFs: [sulemansaleem.com/about#certifications](https://sulemansaleem.com/about#certifications)
 
 ---
 
