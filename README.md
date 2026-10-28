@@ -176,7 +176,7 @@ Full case studies (challenge → solution → impact, tech stack, and screenshot
 
 <td valign="top" width="33%">
 
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square)
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
 - [Career Essentials in Generative AI](https://www.linkedin.com/learning/certificates/f1d9de9129c1210f5f85ad2a95a3a78eea2454e3eb023f82444ddded6d21ca56)
 - [Microsoft Azure Essentials](https://www.linkedin.com/learning/certificates/cb77c24cb5dd59385a6caaafbfb3bcba838f8822b45cabd1780fed303e0936a6)
